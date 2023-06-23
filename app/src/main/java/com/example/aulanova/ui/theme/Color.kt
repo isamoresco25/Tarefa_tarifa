@@ -1,4 +1,4 @@
-package com.example.tarefa_tarifa.ui.theme
+package com.example.aulanova.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,8 +1,14 @@
 <resources>
-    <string name="app_name">tarefa_tarifa</string>
-    <string name="titulo">Calculador de Tarifas</string>
-    <string name="valor">Valor da conta:</string>
-    <string name="tarifa">Tarifa:</string>
-    <string name="total">Total:</string>
-    <string name="botao">Calcular</string>
+    <string name="app_name">AulaNova</string>
+    <string name="titulo">Viagens</string>
+    <string name="botao_login">Fazer login</string>
+    <string name="login">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="nome">Nome:</string>
+    <string name="sobre">lalala</string>
+    <string name="tit_destino">Destino:</string>
+    <string name="tit_data_inicio">Data de início:</string>
+    <string name="tit_data_fim">Data final:</string>
+    <string name="tit_orcamento">Orçamento:</string>
+    <string name="botao_nova_viagem">Salvar Viagem</string>
 </resources>

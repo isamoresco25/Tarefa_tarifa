@@ -1,4 +1,4 @@
-package com.example.tarefa_tarifa.ui.theme
+package com.example.aulanova.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -28,10 +28,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun Tarefa_tarifaTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    content: @Composable () -> Unit
-) {
+fun AulaNovaTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
     val colors = if (darkTheme) {
         DarkColorPalette
     } else {

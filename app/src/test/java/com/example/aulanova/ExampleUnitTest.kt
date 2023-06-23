@@ -1,4 +1,4 @@
-package com.example.tarefa_tarifa
+package com.example.aulanova
 
 import org.junit.Test
 
